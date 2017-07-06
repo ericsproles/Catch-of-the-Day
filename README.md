@@ -1,4 +1,4 @@
 # CotD
-Catch of the Day. React application with Google Firebase back end for managing fish orders in a restaurant
+Catch of the day - A web application for restaurant managers to log into their store, order fish from a list, and display order totals.
 
-An application for restaurant managers to order fish from list and display order total.
+Built with React, NodeJS, and Google Firebase.
