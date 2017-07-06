@@ -12,4 +12,4 @@ To give it a try, run 'npm install' in your terminal
 Then run 'npm start'
 ```
 
-Once logged in, you can click 'Load Sample Fishes' to populate the list of available fish.
+Once logged in, you can click enter a store name and 'Load Sample Fishes' to populate the list of available fish.
